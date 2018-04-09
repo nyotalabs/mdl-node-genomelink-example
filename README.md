@@ -65,11 +65,13 @@ then, visit `http://127.0.0.1:3000`
 
 ### Usernames/Passwords
 
+```
 username 	password
 test-user-1 	genomelink.io
 test-user-2 	genomelink.io
 test-user-3 	genomelink.io
 
+```
 ### Requirements
 
 Node >= 8.9.0
